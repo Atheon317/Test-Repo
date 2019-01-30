@@ -1,1 +1,1 @@
-pseduo Hello, trying to learn to use the terminal for github
+pseudo Hello, trying to learn to use the terminal for github
